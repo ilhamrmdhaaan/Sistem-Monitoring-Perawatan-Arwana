@@ -1,0 +1,6 @@
+{
+    "require": {
+        "swiftmailer/swiftmailer": "@stable",
+        "phpmailer/phpmailer": "5.2.8"
+    }
+}
